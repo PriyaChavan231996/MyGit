@@ -3,13 +3,17 @@
 
 class helloGit{
             
-        static void helloGit()
+
+       public static final void helloGit(String str)
+
         {
               Sysout.out.println("Hello Git....Welcome..");
 
          }
        public static void main(String args[]) {
-            HelloGit.helloGit(); 
+
+        HelloGit.helloGit("Hello"); 
+
                
 
          } 
@@ -19,5 +23,6 @@ class helloGit{
                sysout("has a method implementation");
           }
         
+
 
 }
