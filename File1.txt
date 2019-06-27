@@ -3,14 +3,13 @@
 
 class helloGit{
             
-       helloGit()
+        static void helloGit()
         {
               Sysout.out.println("Hello Git....Welcome..");
 
          }
        public static void main(String args[]) {
-            HelloGit obj=new HelloGit();
-            obj.helloGit(); 
+            HelloGit.helloGit(); 
                
 
          } 
