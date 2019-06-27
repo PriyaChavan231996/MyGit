@@ -14,5 +14,11 @@ class helloGit{
                
 
          } 
+        
+         void myBigMethod()
+          {
+               sysout("has a method implementation");
+          }
+        
 
 }
